@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/speech-balloon.png" width="84"/>
+<img src="https://open-talk.org/assets/emojis/emojis/speech-balloon.png" width="84"/>
 
 # OpenTalk
 
 ### Tezkor • Xavfsiz • Zamonaviy messenjer
 
-<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/high-voltage.png" width="22"/>
-<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/locked.png" width="22"/>
-<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/sparkles.png" width="22"/>
+<img src="https://open-talk.org/assets/emojis/emojis/high-voltage.png" width="22"/>
+<img src="https://open-talk.org/assets/emojis/emojis/locked.png" width="22"/>
+<img src="https://open-talk.org/assets/emojis/emojis/sparkles.png" width="22"/>
 
 Zamonaviy va maxfiy muloqot platformasi
 
@@ -20,31 +20,30 @@ Zamonaviy va maxfiy muloqot platformasi
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/rocket.png" width="20"/> Loyiha haqida
+## <img src="https://open-talk.org/assets/emojis/emojis/rocket.png" width="20"/> Loyiha haqida
 
 OpenTalk — tezlik, xavfsizlik va soddalik asosida qurilayotgan zamonaviy messenjer platformasi.
 
 Asosiy maqsad:
 
-- xavfsiz muloqot  
-- reklamasiz tajriba  
+- xavfsiz muloqot    
 - foydalanuvchi maxfiyligi  
 - tezkor va qulay aloqa
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/glowing-star.png" width="20"/> Imkoniyatlar
+## <img src="https://open-talk.org/assets/emojis/emojis/glowing-star.png" width="20"/> Imkoniyatlar
 
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/high-voltage.png" width="18"/> Chaqmoqdek tez xabar almashish  
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/locked.png" width="18"/> End-to-end shifrlash  
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/speech-balloon.png" width="18"/> Guruhlar va kanallar  
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/video-camera.png" width="18"/> Video va audio qo‘ng‘iroqlar  
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/globe-with-meridians.png" width="18"/> Qurilmalararo sinxronlash  
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/gem-stone.png" width="18"/> Bepul va reklamasiz
+- <img src="https://open-talk.org/assets/emojis/emojis/high-voltage.png" width="18"/> Chaqmoqdek tez xabar almashish  
+- <img src="https://open-talk.org/assets/emojis/emojis/locked.png" width="18"/> End-to-end shifrlash  
+- <img src="https://open-talk.org/assets/emojis/emojis/speech-balloon.png" width="18"/> Guruhlar va kanallar  
+- <img src="https://open-talk.org/assets/emojis/emojis/video-camera.png" width="18"/> Video va audio qo‘ng‘iroqlar  
+- <img src="https://open-talk.org/assets/emojis/emojis/globe-with-meridians.png" width="18"/> Qurilmalararo sinxronlash  
+- <img src="https://open-talk.org/assets/emojis/emojis/gem-stone.png" width="18"/> Bepul va reklamasiz
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/laptop.png" width="20"/> Platformalar
+## <img src="https://open-talk.org/assets/emojis/emojis/laptop.png" width="20"/> Platformalar
 
 OpenTalk quyidagilar uchun mo‘ljallangan:
 
@@ -56,7 +55,7 @@ OpenTalk quyidagilar uchun mo‘ljallangan:
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/shield.png" width="20"/> Asosiy qadriyatlar
+## <img src="https://open-talk.org/assets/emojis/emojis/shield.png" width="20"/> Asosiy qadriyatlar
 
 - Maxfiylik  
 - Xavfsizlik  
@@ -66,7 +65,7 @@ OpenTalk quyidagilar uchun mo‘ljallangan:
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/party-popper.png" width="20"/> Loyiha holati
+## <img src="https://open-talk.org/assets/emojis/emojis/party-popper.png" width="20"/> Loyiha holati
 
 Hozirda OpenTalk faol rivojlantirilmoqda.
 
@@ -80,7 +79,7 @@ Yaqin rejalar:
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/handshake.png" width="20"/> Hissa qo‘shish
+## <img src="https://open-talk.org/assets/emojis/emojis/handshake.png" width="20"/> Hissa qo‘shish
 
 Takliflar, g‘oyalar va feedback mamnuniyat bilan qabul qilinadi.
 
@@ -88,7 +87,7 @@ Issues va discussions ochishingiz mumkin.
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/red-heart.png" width="20"/> OpenTalk falsafasi
+## <img src="https://open-talk.org/assets/emojis/emojis/red-heart.png" width="20"/> OpenTalk falsafasi
 
 > Muloqot oddiy, tez va haqiqatan maxfiy bo‘lishi kerak.
 
@@ -96,7 +95,7 @@ Issues va discussions ochishingiz mumkin.
 
 <div align="center">
 
-<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/sparkles.png" width="26"/>
+<img src="https://open-talk.org/assets/emojis/emojis/sparkles.png" width="26"/>
 
 ### OpenTalk © 2026
 
