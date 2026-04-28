@@ -1,51 +1,52 @@
 <div align="center">
 
-<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/speech-balloon.png" width="72"/>
+<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/speech-balloon.png" width="84"/>
 
 # OpenTalk
 
-### Fast • Secure • Modern Messaging Platform
+### Tezkor • Xavfsiz • Zamonaviy messenjer
 
 <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/high-voltage.png" width="22"/>
 <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/locked.png" width="22"/>
 <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/sparkles.png" width="22"/>
 
-Private communication reimagined.
+Zamonaviy va maxfiy muloqot platformasi
 
-![License](https://img.shields.io/badge/license-Apache--2.0-blue)
-![Status](https://img.shields.io/badge/status-active-success)
+![Status](https://img.shields.io/badge/status-rivojlanmoqda-success)
 ![Platform](https://img.shields.io/badge/platform-cross--platform-black)
+![License](https://img.shields.io/badge/license-Apache--2.0-blue)
 
 </div>
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/rocket.png" width="20"/> About
+## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/rocket.png" width="20"/> Loyiha haqida
 
-OpenTalk is a modern messaging platform focused on:
+OpenTalk — tezlik, xavfsizlik va soddalik asosida qurilayotgan zamonaviy messenjer platformasi.
 
-- Fast real-time communication  
-- End-to-end encryption  
-- Beautiful minimalist UX  
-- Groups, channels and calls  
-- Privacy-first architecture
+Asosiy maqsad:
 
----
-
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/glowing-star.png" width="20"/> Features
-
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/high-voltage.png" width="18"/> Lightning fast messaging  
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/locked.png" width="18"/> End-to-end encrypted chats  
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/globe-with-meridians.png" width="18"/> Cloud sync  
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/video-camera.png" width="18"/> HD voice & video calls  
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/speech-balloon.png" width="18"/> Groups and channels  
-- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/gem-stone.png" width="18"/> Free and ad-free  
+- xavfsiz muloqot  
+- reklamasiz tajriba  
+- foydalanuvchi maxfiyligi  
+- tezkor va qulay aloqa
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/laptop.png" width="20"/> Platforms
+## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/glowing-star.png" width="20"/> Imkoniyatlar
 
-Supported:
+- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/high-voltage.png" width="18"/> Chaqmoqdek tez xabar almashish  
+- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/locked.png" width="18"/> End-to-end shifrlash  
+- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/speech-balloon.png" width="18"/> Guruhlar va kanallar  
+- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/video-camera.png" width="18"/> Video va audio qo‘ng‘iroqlar  
+- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/globe-with-meridians.png" width="18"/> Qurilmalararo sinxronlash  
+- <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/gem-stone.png" width="18"/> Bepul va reklamasiz
+
+---
+
+## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/laptop.png" width="20"/> Platformalar
+
+OpenTalk quyidagilar uchun mo‘ljallangan:
 
 - Android  
 - iOS  
@@ -55,87 +56,50 @@ Supported:
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/gear.png" width="20"/> Tech Stack
+## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/shield.png" width="20"/> Asosiy qadriyatlar
 
-```bash
-Flutter
-Dart
-PHP / Backend API
-MySQL
-WebSocket
-Cloudflare
-```
+- Maxfiylik  
+- Xavfsizlik  
+- Tezlik  
+- Soddalik  
+- Ochiqlik
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/package.png" width="20"/> Project Structure
+## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/party-popper.png" width="20"/> Loyiha holati
 
-```bash
-opentalk/
-├── app/
-├── server/
-├── website/
-├── docs/
-└── README.md
-```
+Hozirda OpenTalk faol rivojlantirilmoqda.
 
----
+Yaqin rejalar:
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/rocket.png" width="20"/> Getting Started
-
-Clone:
-
-```bash
-git clone https://github.com/yourname/opentalk.git
-cd opentalk
-```
-
-Run:
-
-```bash
-flutter pub get
-flutter run
-```
+- mobil ilova chiqishi  
+- desktop client  
+- ochiq API  
+- bot platformasi  
+- kanallar va communities
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/shield.png" width="20"/> Security
+## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/handshake.png" width="20"/> Hissa qo‘shish
 
-Privacy and security are core principles:
+Takliflar, g‘oyalar va feedback mamnuniyat bilan qabul qilinadi.
 
-- Zero ads  
-- No data selling  
-- Encrypted communication  
-- User-first design
+Issues va discussions ochishingiz mumkin.
 
 ---
 
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/handshake.png" width="20"/> Contributing
+## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/red-heart.png" width="20"/> OpenTalk falsafasi
 
-PRs and issues are welcome.
-
-```bash
-Fork → Branch → Commit → Pull Request
-```
-
----
-
-## <img src="https://opentalk.wwiw.uz/assets/emojis/emojis/red-heart.png" width="20"/> Support
-
-If you like OpenTalk:
-
-⭐ Star the repository  
-🐛 Open issues  
-💡 Suggest features
+> Muloqot oddiy, tez va haqiqatan maxfiy bo‘lishi kerak.
 
 ---
 
 <div align="center">
 
-### Built with 
-<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/red-heart.png" width="18"/>
-for private communication.
+<img src="https://opentalk.wwiw.uz/assets/emojis/emojis/sparkles.png" width="26"/>
 
-**OpenTalk © 2026**
+### OpenTalk © 2026
+
+Minimalizm. Tezlik. Xavfsizlik.
 
 </div>
